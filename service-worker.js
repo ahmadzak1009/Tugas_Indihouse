@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tugas_Indihouse/precache-manifest.cdf08a41d3dfec6ff521cf28b37d0d39.js"
+  "/Tugas_Indihouse/precache-manifest.8c5bee31b3c919bae31cf67dcf7a5b4f.js"
 );
 
 self.addEventListener('message', (event) => {
