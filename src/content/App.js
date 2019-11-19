@@ -93,6 +93,59 @@ class App extends Component {
             </div>
           </div>
         </div>
+
+        <div id="content-2">
+          <div className="container">
+            <div id="content-2-top">
+              <h2>
+                Berlangganan IndiHouse dan nikmati konten terbaik di dalam layar
+                TV Anda
+              </h2>
+              <div id="nav-content2">
+                <div className="nav-content2-item">
+                  <img
+                    src={require("../images/indihouse/nav-content2-1_active.png")}
+                  />
+                </div>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <div className="nav-content2-item">
+                  <img
+                    src={require("../images/indihouse/nav-content2-2.png")}
+                  />
+                </div>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                <div className="nav-content2-item">
+                  <img
+                    src={require("../images/indihouse/nav-content2-3.png")}
+                  />
+                </div>
+              </div>
+            </div>
+
+            <div id="slider-3" className="konten-indihome">
+              <div className="slider-3-item">
+                <img src={require("../images/indihouse/3nd-slider-1.jpg")} />
+                <h3>Lomba EPG</h3>
+                <p>IndiHouse TV</p>
+              </div>
+              <div className="slider-3-item">
+                <img src={require("../images/indihouse/3nd-slider-2.jpg")} />
+                <h3>UseeSport 2</h3>
+                <p>IndiHouse TV</p>
+              </div>
+              <div className="slider-3-item">
+                <img src={require("../images/indihouse/3nd-slider-3.jpg")} />
+                <h3>FX - Ray Donovan Season 7</h3>
+                <p>IndiHouse TV</p>
+              </div>
+              <div className="slider-3-item">
+                <img src={require("../images/indihouse/3nd-slider-4.jpg")} />
+                <h3>Boomerang - Taffy</h3>
+                <p>IndiHouse TV</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     );
   }
