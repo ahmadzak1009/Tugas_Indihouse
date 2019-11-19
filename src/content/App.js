@@ -45,6 +45,23 @@ class App extends Component {
             Berlangganan IndiHouse bisa dapat internet cepat, nelpon rumah
             sepuasnya dan nonton beragam konten terbaik di layar TV interaktif
           </div>
+
+          <div id="slider">
+            <div id="slider-1">
+              <img src={require("../images/indihouse/slider1.jpg")} alt="" />
+            </div>
+
+            <div id="paket">
+              <div className="paket-item paket-premium">
+                <p>Berlangganan IndiHouse Paket Premium</p>
+                <button>Lihat Detail</button>
+              </div>
+              <div className="paket-item paket-gamer">
+                <p>Berlangganan IndiHouse Paket Gamer</p>
+                <button>Lihat Detail</button>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     );

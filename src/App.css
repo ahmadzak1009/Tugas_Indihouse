@@ -61,4 +61,56 @@ body {
   font-weight: 600;
   text-align: center;
   font-size: 16px;
+  margin-bottom: 30px;
+}
+
+#slider {
+  display: flex;
+  justify-content: space-between;
+}
+
+#slider-1,
+#slider-1 img {
+  width: 845px;
+  height: 400px;
+  border-radius: 20px;
+}
+
+#paket {
+  height: 400px;
+  width: 270px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.paket-item {
+  height: 45%;
+  padding: 30px 15px;
+}
+
+.paket-premium {
+  background: url("./images/indihouse/mini-banner-1-raw.png") no-repeat;
+  background-size: contain;
+}
+
+.paket-gamer {
+  background: url("./images/indihouse/mini-banner-2-raw.png") no-repeat;
+  background-size: contain;
+}
+
+.paket-item p {
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.paket-item button {
+  padding: 10px 20px;
+  background: #ec1e37;
+  border-radius: 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
 }
