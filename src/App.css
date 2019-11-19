@@ -20,7 +20,6 @@ body {
 .container {
   width: 1170px;
   margin: auto;
-  height: 100%;
 }
 
 .flex-center-between {
@@ -33,6 +32,7 @@ body {
   font-size: 30px;
   color: white;
   font-weight: 600;
+  line-height: 50px;
 }
 
 #menu-links {
@@ -41,8 +41,24 @@ body {
 
 .menu-link {
   text-transform: uppercase;
+  line-height: 50px;
   color: white;
   text-decoration: none;
   margin-right: 30px;
   font-weight: 600;
+}
+
+#content {
+  padding-top: 90px;
+}
+
+#banner-1 {
+  width: 100%;
+  background: linear-gradient(135deg, #ea322a 40%, #ac2222 60%);
+  padding: 20px;
+  color: white;
+  border-radius: 20px;
+  font-weight: 600;
+  text-align: center;
+  font-size: 16px;
 }

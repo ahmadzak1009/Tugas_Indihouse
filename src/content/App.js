@@ -39,6 +39,13 @@ class App extends Component {
             </div>
           </div>
         </div>
+
+        <div id="content" className="container">
+          <div id="banner-1">
+            Berlangganan IndiHouse bisa dapat internet cepat, nelpon rumah
+            sepuasnya dan nonton beragam konten terbaik di layar TV interaktif
+          </div>
+        </div>
       </div>
     );
   }
