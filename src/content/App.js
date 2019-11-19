@@ -62,6 +62,36 @@ class App extends Component {
               </div>
             </div>
           </div>
+
+          <div id="add-on-unggulan">
+            <h3>Add On Unggulan</h3>
+            <div id="slider-2">
+              <div className="slider-2-item">
+                <img src={require("../images/indihouse/2nd-slider-1.jpg")} />
+                <div className="slider-2-text">
+                  iflix <span>Lihat</span>
+                </div>
+              </div>
+              <div className="slider-2-item">
+                <img src={require("../images/indihouse/2nd-slider-2.jpg")} />
+                <div className="slider-2-text">
+                  Hooq <span>Lihat</span>
+                </div>
+              </div>
+              <div className="slider-2-item">
+                <img src={require("../images/indihouse/2nd-slider-3.jpg")} />
+                <div className="slider-2-text">
+                  EduKids <span>Lihat</span>
+                </div>
+              </div>
+              <div className="slider-2-item">
+                <img src={require("../images/indihouse/2nd-slider-4.jpg")} />
+                <div className="slider-2-text">
+                  CatchPlay <span>Lihat</span>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     );

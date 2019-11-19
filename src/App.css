@@ -114,3 +114,49 @@ body {
   border: none;
   cursor: pointer;
 }
+
+#add-on-unggulan {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+#add-on-unggulan h3 {
+  margin: 30px 0px;
+}
+
+#slider-2 {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.slider-2-item {
+  width: 230px;
+  height: 187px;
+  border-radius: 20px;
+  border: 1px solid rgb(230, 224, 224);
+  margin: 0px 10px;
+}
+
+.slider-2-item img {
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.slider-2-text {
+  width: 100%;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+.slider-2-text span {
+  float: right;
+  color: #ec1e37;
+  cursor: pointer;
+}
+
+.slider-2-text span:hover {
+  text-decoration: underline;
+  color: lightgray;
+}
