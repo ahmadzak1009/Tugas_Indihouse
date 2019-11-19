@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tugas_Indihouse/static/css/main.ea88eccc.chunk.css",
+    "main.js": "/Tugas_Indihouse/static/js/main.6694473a.chunk.js",
+    "main.js.map": "/Tugas_Indihouse/static/js/main.6694473a.chunk.js.map",
+    "runtime-main.js": "/Tugas_Indihouse/static/js/runtime-main.1b270275.js",
+    "runtime-main.js.map": "/Tugas_Indihouse/static/js/runtime-main.1b270275.js.map",
+    "static/js/2.94a5eeca.chunk.js": "/Tugas_Indihouse/static/js/2.94a5eeca.chunk.js",
+    "static/js/2.94a5eeca.chunk.js.map": "/Tugas_Indihouse/static/js/2.94a5eeca.chunk.js.map",
+    "index.html": "/Tugas_Indihouse/index.html",
+    "precache-manifest.cdf08a41d3dfec6ff521cf28b37d0d39.js": "/Tugas_Indihouse/precache-manifest.cdf08a41d3dfec6ff521cf28b37d0d39.js",
+    "service-worker.js": "/Tugas_Indihouse/service-worker.js",
+    "static/css/main.ea88eccc.chunk.css.map": "/Tugas_Indihouse/static/css/main.ea88eccc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b270275.js",
+    "static/js/2.94a5eeca.chunk.js",
+    "static/css/main.ea88eccc.chunk.css",
+    "static/js/main.6694473a.chunk.js"
+  ]
+}
