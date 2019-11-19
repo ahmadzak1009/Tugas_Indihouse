@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1aba8875a630ca18478ae33d0c262f1b",
+    "revision": "190854dd6165a629ca446481d9e02596",
     "url": "/Tugas_Indihouse/index.html"
   },
   {
-    "revision": "e547e1c8b31a3a5cd8dc",
-    "url": "/Tugas_Indihouse/static/css/main.74579851.chunk.css"
+    "revision": "6824e6c2e545d0e3ab9e",
+    "url": "/Tugas_Indihouse/static/css/main.b5d8f430.chunk.css"
   },
   {
     "revision": "b72d241cde748e183e13",
     "url": "/Tugas_Indihouse/static/js/2.94a5eeca.chunk.js"
   },
   {
-    "revision": "e547e1c8b31a3a5cd8dc",
-    "url": "/Tugas_Indihouse/static/js/main.024482f4.chunk.js"
+    "revision": "6824e6c2e545d0e3ab9e",
+    "url": "/Tugas_Indihouse/static/js/main.aeb63567.chunk.js"
   },
   {
     "revision": "381ddb6cfcdf117ab132",
@@ -34,6 +34,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d352b85689563ce0a2112de6501cd6d2",
     "url": "/Tugas_Indihouse/static/media/2nd-slider-4.d352b856.jpg"
+  },
+  {
+    "revision": "14fc8c30932fbb02b632f61e936b0d2c",
+    "url": "/Tugas_Indihouse/static/media/3nd-slider-1.14fc8c30.jpg"
+  },
+  {
+    "revision": "869b797c310296c541d3ef86f59bc53d",
+    "url": "/Tugas_Indihouse/static/media/3nd-slider-2.869b797c.jpg"
+  },
+  {
+    "revision": "6e88962464b7cec79be51581067a58dc",
+    "url": "/Tugas_Indihouse/static/media/3nd-slider-3.6e889624.jpg"
+  },
+  {
+    "revision": "d87ac5cb985353150842012bd036a6f9",
+    "url": "/Tugas_Indihouse/static/media/3nd-slider-4.d87ac5cb.jpg"
   },
   {
     "revision": "b41feeb350f628f19e46654e21b28436",

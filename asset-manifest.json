@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/Tugas_Indihouse/static/css/main.74579851.chunk.css",
-    "main.js": "/Tugas_Indihouse/static/js/main.024482f4.chunk.js",
-    "main.js.map": "/Tugas_Indihouse/static/js/main.024482f4.chunk.js.map",
+    "main.css": "/Tugas_Indihouse/static/css/main.b5d8f430.chunk.css",
+    "main.js": "/Tugas_Indihouse/static/js/main.aeb63567.chunk.js",
+    "main.js.map": "/Tugas_Indihouse/static/js/main.aeb63567.chunk.js.map",
     "runtime-main.js": "/Tugas_Indihouse/static/js/runtime-main.1b270275.js",
     "runtime-main.js.map": "/Tugas_Indihouse/static/js/runtime-main.1b270275.js.map",
     "static/js/2.94a5eeca.chunk.js": "/Tugas_Indihouse/static/js/2.94a5eeca.chunk.js",
     "static/js/2.94a5eeca.chunk.js.map": "/Tugas_Indihouse/static/js/2.94a5eeca.chunk.js.map",
     "index.html": "/Tugas_Indihouse/index.html",
-    "precache-manifest.13293bdf6c0a71c8eb9a5930199b3f86.js": "/Tugas_Indihouse/precache-manifest.13293bdf6c0a71c8eb9a5930199b3f86.js",
+    "precache-manifest.75685d104076632bb098deb12c46aeda.js": "/Tugas_Indihouse/precache-manifest.75685d104076632bb098deb12c46aeda.js",
     "service-worker.js": "/Tugas_Indihouse/service-worker.js",
-    "static/css/main.74579851.chunk.css.map": "/Tugas_Indihouse/static/css/main.74579851.chunk.css.map",
+    "static/css/main.b5d8f430.chunk.css.map": "/Tugas_Indihouse/static/css/main.b5d8f430.chunk.css.map",
     "static/media/2nd-slider-1.jpg": "/Tugas_Indihouse/static/media/2nd-slider-1.e88c382c.jpg",
     "static/media/2nd-slider-2.jpg": "/Tugas_Indihouse/static/media/2nd-slider-2.d7bac967.jpg",
     "static/media/2nd-slider-3.jpg": "/Tugas_Indihouse/static/media/2nd-slider-3.594a350b.jpg",
     "static/media/2nd-slider-4.jpg": "/Tugas_Indihouse/static/media/2nd-slider-4.d352b856.jpg",
+    "static/media/3nd-slider-1.jpg": "/Tugas_Indihouse/static/media/3nd-slider-1.14fc8c30.jpg",
+    "static/media/3nd-slider-2.jpg": "/Tugas_Indihouse/static/media/3nd-slider-2.869b797c.jpg",
+    "static/media/3nd-slider-3.jpg": "/Tugas_Indihouse/static/media/3nd-slider-3.6e889624.jpg",
+    "static/media/3nd-slider-4.jpg": "/Tugas_Indihouse/static/media/3nd-slider-4.d87ac5cb.jpg",
     "static/media/slider1.jpg": "/Tugas_Indihouse/static/media/slider1.b41feeb3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1b270275.js",
     "static/js/2.94a5eeca.chunk.js",
-    "static/css/main.74579851.chunk.css",
-    "static/js/main.024482f4.chunk.js"
+    "static/css/main.b5d8f430.chunk.css",
+    "static/js/main.aeb63567.chunk.js"
   ]
 }
